@@ -56,7 +56,7 @@
     "GithubUser" : {
       "Type" : "String",
       "Description" : "user of your git hub repo ",
-      "Default" : "ramana236"
+      "Default" : "remdevops"
     },
     "GithubBranch" : {
       "Type" : "String",
@@ -71,7 +71,7 @@
     "GithubOauthtoken" : {
       "Type" : "String",
       "Description" : "Clone app your git repo ",
-      "Default" : "23c1d249e2bc77b5ec171ce2d86cb5e3eb41acc0"
+      "Default" : "bd3c68ec8991af1ec2c522bad05865d18d4399d2"
     },
     "ecsStackName" : {
       "Type" : "String",
